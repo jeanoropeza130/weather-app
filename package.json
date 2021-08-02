@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeanoropeza130.github.io",
+  "homepage": "https://jeanoropeza130.github.io/weather-app",
   "dependencies": {
     "@material-ui/core": "^4.9.7",
     "@material-ui/lab": "^4.0.0-alpha.56",
